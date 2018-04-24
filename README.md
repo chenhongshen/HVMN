@@ -26,11 +26,18 @@ The dataset is only for research purposes. Without permission, it may not be use
 We appreciate your citation if you find our dataset is beneficial.
 
 @inproceedings{chen2018hierarchical,
+
   title={Hierarchical Variational Memory Network for Dialogue Generation},
+  
   author={Chen, Hongshen and Ren, Zhaochun and Tang, Jiliang and Zhao, Yihong Eric and Yin, Dawei},
+  
   booktitle={Proceedings of the 2018 World Wide Web Conference on World Wide Web},
+  
   pages={1653--1662},
+  
   year={2018},
+  
   organization={International World Wide Web Conferences Steering Committee}
+  
 }
 
