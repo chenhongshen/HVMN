@@ -72,3 +72,7 @@ To compute the embedding-based metrics on the generated responses run:
     python Evaluation/embedding_metrics.py <ground_truth_responses> <model_outputs> <word_emb> 
 
 where &lt;ground_truth_responses&gt; is a file containing the ground truth responses, &lt;model_outputs&gt; is the file generated above and &lt;word_emb&gt; is the path to the binarized word embeddings. For the word embeddings, we recommend to use Word2Vec trained on the GoogleNews Corpus: https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM.
+
+To compute the entropy run:
+    python Evaluation/entutil.py <ngram training corpus> <test corpus1> <test corpus2> ...
+where the ngram training corpus can be the model traning corpus or other resources, test corpus can be the ground truth responses or model outputs.
