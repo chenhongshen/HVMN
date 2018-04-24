@@ -1,5 +1,5 @@
 ### Description
-This repository hosts Hierarchical Variational Memory Network for Dialogue Generation (HVMN) model (VHRED) for dialouge generation herited from the Serban et al. (2016a) and Serban et al. (2016c).
+This repository hosts Hierarchical Variational Memory Network for Dialogue Generation (HVMN) model (VHRED) for dialouge generation inherited from the Serban et al. (2016a) and Serban et al. (2016c).
 
 
 
