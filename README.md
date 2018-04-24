@@ -9,7 +9,7 @@ of turns and utterances in a dialogue session is much longer than Ubuntu corpus.
 
 
 # How to get JD Customer Service corpus?
-Signed the following copyright announcement. Then mail to chenhongshen@jd.com or renzhaochun1@jd.com to access the corpus.
+Signed the following copyright announcement. Then mail to chenhongshen@jd.com or renzhaochun@jd.com to access the corpus.
 
 
 #Copyright
