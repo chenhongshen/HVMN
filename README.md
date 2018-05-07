@@ -10,7 +10,10 @@ of turns and utterances in a dialogue session is much longer than Ubuntu corpus.
 
 ### How to get JD Customer Service corpus?
 Signed the following copyright announcement with your name and organization. 
-Then mail to chenhongshen@jd.com or renzhaochun@jd.com to access the corpus.
+Then mail to chenhongshen#jd.com or renzhaochun#jd.com to access the corpus.
+
+Or,
+complete the form online(https://goo.gl/forms/9t4eKakWUAM1Z2192), we will send you the corpus by e-mail when approved.
 
 
 ### Copyright
@@ -26,6 +29,7 @@ The dataset is only for research purposes. Without permission, it may not be use
 
 We appreciate your citation if you find our dataset is beneficial.
 
+```javascript
 @inproceedings{chen2018hierarchical,
 
   title={Hierarchical Variational Memory Network for Dialogue Generation},
@@ -41,4 +45,5 @@ We appreciate your citation if you find our dataset is beneficial.
   organization={International World Wide Web Conferences Steering Committee}
   
 }
+```
 
