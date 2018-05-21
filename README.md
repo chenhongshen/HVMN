@@ -4,8 +4,7 @@
 
 ### About the corpus
 JD customer service corpus consists of online retailing customer service dialogues. In JD corpus, each conversation is between a customer and a customer service
-staff. The corpuscontains 415,000 dialogues for training, 1,5000 dialogues for validation, and 5,005 for the test. The average number
-of turns and utterances in a dialogue session is much longer than Ubuntu corpus.
+staff. The corpus contains  more than 420,000 dialogues sessions.
 
 
 ### How to get JD Customer Service corpus?
