@@ -9,11 +9,13 @@ staff. The corpus contains  more than 420,000 dialogues sessions.
 
 ### How to get JD Customer Service corpus?
 Signed the following copyright announcement with your name and organization. 
-Then mail to chenhongshen#jd.com or renzhaochun#jd.com to access the corpus.
+Then mail to chenhongshen#jd.com ('#'->'@') to access the corpus.
 
 Or,
 complete the form online(https://goo.gl/forms/9t4eKakWUAM1Z2192), we will send you the corpus by e-mail when approved.
 
+### Hiring
+We are hiring long-term and short-term highly self-motivated research interns focusing on natural language processing, dialogue systems, structured sequence labeling, etc. Send me your CV if you are interested (chenhongshen#jd.com or mailme#chenhongshen.cn). 
 
 ### Copyright
 
