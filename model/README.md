@@ -17,9 +17,11 @@ Prepare your dataset as a text file for with one document per line (e.g. one dia
 
 Once you're ready, you can create the model dataset files by running:
 
-python convert-text2dict.py &lt;training_file&gt; --cutoff &lt;vocabulary_size&gt; Training
-python convert-text2dict.py &lt;validation_file&gt; --dict=Training.dict.pkl Validation
-python convert-text2dict.py &lt;test_file&gt; --dict=Training.dict.pkl &lt;vocabulary_size&gt; Test
+```
+python convert-text2dict.py <training_file> --cutoff <vocabulary_size> Training
+python convert-text2dict.py <validation_file> --dict=Training.dict.pkl Validation
+python convert-text2dict.py <test_file> --dict=Training.dict.pkl <vocabulary_size> Test
+```
 
 where &lt;training_file&gt;, &lt;validation_file&gt; and &lt;test_file&gt; are the training, validation and test files, and &lt;vocabulary_size&gt; is the number of tokens that you want to train on (all other tokens, but the most frequent &lt;vocabulary_size&gt; tokens, will be converted to &lt;unk&gt; symbols).
 
@@ -45,6 +47,7 @@ If you have Theano with GPU installed (bleeding edge version), you can train the
 3) Unpack your dataset files into "Data" directory.
 4) Create a new prototype inside state.py (look at prototype_ubuntu_HRED for an example)
 5) From the terminal, cd into the code directory and run:
+
 
     THEANO_FLAGS=mode=FAST_RUN,device=gpu,floatX=float32 python train.py --prototype <prototype_name> > Model_Output.txt
 
