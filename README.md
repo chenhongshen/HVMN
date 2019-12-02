@@ -14,6 +14,7 @@ mail to ac#chenhongshen.com ('#'->'@') to access the corpus.
 
 ### Hiring
 About me: http://www.chenhongshen.com
+
 I'm always looking for highly self-motivated students (Undergraduate/Graduate) to work with me as research interns.
 Full-time NLP research scientists are hiring. You will get opportunities to stand at the frontier of both the academic and the real industrial applications.
 Candidates who are interested in working with me are welcome to send me your resume. Email: ac#chenhongshen.com (#-->@)
