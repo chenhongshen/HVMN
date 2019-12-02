@@ -3,8 +3,8 @@
 ### Hierarchical Variational Memory Network for Dialogue Generation
 
 ### About the corpus
-JD customer service corpus consists of online retailing customer service dialogues. In JD corpus, each conversation is between a customer and a customer service
-staff. The corpus contains  more than 420,000 dialogues sessions.
+JD customer service corpus consists of online retailing customer service dialogues. In JD corpus, each conversation is conducted between a customer and a customer service staff. 
+The corpus contains more than 420,000 dialogues sessions.
 
 
 ### How to get JD Customer Service corpus?
