@@ -13,7 +13,7 @@ Or,
 mail to ac#chenhongshen.com ('#'->'@') to access the corpus.
 
 ### Hiring
-About me: http://www.chenhongshen.com
+About me: https://www.chenhongshen.com
 
 I'm always looking for highly self-motivated students (Undergraduate/Graduate) to work with me as research interns.
 
